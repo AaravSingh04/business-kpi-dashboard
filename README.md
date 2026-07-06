@@ -13,7 +13,7 @@ https://business-kpi-dashboard-qmaifbghwajymchzvkwg3e.streamlit.app/
 
 ## 📸 Dashboard Preview
 
-![Business KPI Dashboard](dashboard.png)
+![Business KPI Dashboard](dashboard.png.png)
 ## ✨ Features
 
 - 💰 Revenue KPI
